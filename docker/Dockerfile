@@ -1,4 +1,4 @@
-FROM python:3.7.3-stretch
+FROM python:3.7.3
 
 # RUN pip install --no-cache pyfaidx pysam Pillow pytabix bamsnap
 
